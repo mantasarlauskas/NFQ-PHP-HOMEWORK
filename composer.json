@@ -1,0 +1,12 @@
+{
+    "name": "mantas/nfq",
+    "require": {
+        "markrogoyski/math-php": "0.*"
+    },
+    "autoload": {
+        "files": [
+            "src/file1.php",
+            "src/file2.php"
+        ]
+    }
+}
